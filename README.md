@@ -1,19 +1,19 @@
 # Stepik---autotest-course
 ### HomeWork for course "https://stepik.org/course/575/syllabus"
 ## My projects:
-1. [Lesson 1.6 Step 4][1]
-2. [Lesson 1.6 Step 4][2]
-3. [Lesson 1.6 Step 4][3]
-4. [Lesson 1.6 Step 4][4]
-5. [Lesson 1.6 Step 4][5]
-6. [Lesson 1.6 Step 4][6]
-7. [Lesson 1.6 Step 4][7]
-8. [Lesson 1.6 Step 4][8]
-9. [Lesson 1.6 Step 4][9]
-10. [Lesson 1.6 Step 4][10]
-11. [Lesson 1.6 Step 4][11]
-12. [Lesson 1.6 Step 4][12]
-13. [Lesson 1.6 Step 4][13]
+1. [Lesson 1.6 Step 4 "Поиск элементов с помощью Selenium WebDriver"][1]
+2. [Lesson 1.6 Step 5 "Поиск элементов с помощью Selenium WebDriver"][2]
+3. [Lesson 1.6 Step 7 "Поиск элементов с помощью Selenium WebDriver"][3]
+4. [Lesson 1.6 Step 8 "Поиск элементов с помощью Selenium WebDriver"][4]
+5. [Lesson 1.6 Step 10 "Поиск элементов с помощью Selenium WebDriver"][5]
+6. [Lesson 2.1 Step 5 "Основные методы Selenium"][6]
+7. [Lesson 2.1 Step 7 "Основные методы Selenium"][7]
+8. [Lesson 2.2 Step 3 "Работа с файлами, списками и js-скриптами"][8]
+9. [Lesson 2.2 Step 6 "Работа с файлами, списками и js-скриптами"][9]
+10. [Lesson 2.2 Step 8 "Работа с файлами, списками и js-скриптами"][10]
+11. [Lesson 2.3 Step 4 "Работа с окнами"][11]
+12. [Lesson 2.3 Step 6 "Работа с окнами"][12]
+13. [Lesson 2.4 Step 8 "Настройка ожиданий"][13]
 
 
 
